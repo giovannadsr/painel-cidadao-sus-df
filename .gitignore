@@ -1,0 +1,7 @@
+dados_sus/registros_progresso.jsonl
+dados_sus/checkpoint.json
+dados_sus/procedimentos_com_erro.csv
+dados_sus/lista_espera_sus_df.csv
+__pycache__/
+.venv/
+.idea/
